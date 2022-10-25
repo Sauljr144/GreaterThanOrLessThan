@@ -1,0 +1,15 @@
+C:\Users\sauls\Documents\CS Academy\Level1\GreaterThanOrLessThan\GreaterThanOrLessThan\bin\Debug\net6.0\GreaterThanOrLessThan.exe
+C:\Users\sauls\Documents\CS Academy\Level1\GreaterThanOrLessThan\GreaterThanOrLessThan\bin\Debug\net6.0\GreaterThanOrLessThan.deps.json
+C:\Users\sauls\Documents\CS Academy\Level1\GreaterThanOrLessThan\GreaterThanOrLessThan\bin\Debug\net6.0\GreaterThanOrLessThan.runtimeconfig.json
+C:\Users\sauls\Documents\CS Academy\Level1\GreaterThanOrLessThan\GreaterThanOrLessThan\bin\Debug\net6.0\GreaterThanOrLessThan.dll
+C:\Users\sauls\Documents\CS Academy\Level1\GreaterThanOrLessThan\GreaterThanOrLessThan\bin\Debug\net6.0\GreaterThanOrLessThan.pdb
+C:\Users\sauls\Documents\CS Academy\Level1\GreaterThanOrLessThan\GreaterThanOrLessThan\obj\Debug\net6.0\GreaterThanOrLessThan.csproj.AssemblyReference.cache
+C:\Users\sauls\Documents\CS Academy\Level1\GreaterThanOrLessThan\GreaterThanOrLessThan\obj\Debug\net6.0\GreaterThanOrLessThan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sauls\Documents\CS Academy\Level1\GreaterThanOrLessThan\GreaterThanOrLessThan\obj\Debug\net6.0\GreaterThanOrLessThan.AssemblyInfoInputs.cache
+C:\Users\sauls\Documents\CS Academy\Level1\GreaterThanOrLessThan\GreaterThanOrLessThan\obj\Debug\net6.0\GreaterThanOrLessThan.AssemblyInfo.cs
+C:\Users\sauls\Documents\CS Academy\Level1\GreaterThanOrLessThan\GreaterThanOrLessThan\obj\Debug\net6.0\GreaterThanOrLessThan.csproj.CoreCompileInputs.cache
+C:\Users\sauls\Documents\CS Academy\Level1\GreaterThanOrLessThan\GreaterThanOrLessThan\obj\Debug\net6.0\GreaterThanOrLessThan.dll
+C:\Users\sauls\Documents\CS Academy\Level1\GreaterThanOrLessThan\GreaterThanOrLessThan\obj\Debug\net6.0\refint\GreaterThanOrLessThan.dll
+C:\Users\sauls\Documents\CS Academy\Level1\GreaterThanOrLessThan\GreaterThanOrLessThan\obj\Debug\net6.0\GreaterThanOrLessThan.pdb
+C:\Users\sauls\Documents\CS Academy\Level1\GreaterThanOrLessThan\GreaterThanOrLessThan\obj\Debug\net6.0\GreaterThanOrLessThan.genruntimeconfig.cache
+C:\Users\sauls\Documents\CS Academy\Level1\GreaterThanOrLessThan\GreaterThanOrLessThan\obj\Debug\net6.0\ref\GreaterThanOrLessThan.dll
