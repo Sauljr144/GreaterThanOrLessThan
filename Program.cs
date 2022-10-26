@@ -1,4 +1,7 @@
-﻿//---Variables--//
+﻿// --- Mauricio review, good job!
+
+
+//---Variables--//
 int number1;
 int number2;
 string playAgain = "Y";
